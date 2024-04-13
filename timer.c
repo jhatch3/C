@@ -1,11 +1,11 @@
-/* very simple timer application 
+/* 
+straightforward timer application 
   things learned/improved on:
       for loops 
-      gettiing confortable with syntax and printf formats
-      clearing console (different for linux and windows)
+      getting comfortable with syntax and printf formats
+      clearing console (different for Linux and Windows)
       sleep(1) to sim clock 
       #include <> are libaries?
-
 */
 
 #include <stdio.h>
