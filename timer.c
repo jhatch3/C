@@ -36,7 +36,6 @@ int main ()
 	sec = sec + 1;
 	if (sec == 60)
 	{
-	
 		min = min + 1;
 		sec = 00;
 	}
